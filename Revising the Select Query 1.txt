@@ -1,0 +1,6 @@
+Oracle: 
+
+SELECT * FROM CITY WHERE POPULATION > 100000 AND COUNTRYCODE = 'USA';
+
+(Here, * is used for getting all columns from table named CITY)
+(Condition is Population > 100000 and Country must be America. So, COUNTRYCODE = 'USA' (given) on Hacker Rank).
